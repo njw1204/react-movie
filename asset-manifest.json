@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/njw1204/react-movie/static/css/main.77274861.css",
+    "main.js": "/njw1204/react-movie/static/js/main.5a1b49e3.js",
+    "index.html": "/njw1204/react-movie/index.html",
+    "main.77274861.css.map": "/njw1204/react-movie/static/css/main.77274861.css.map",
+    "main.5a1b49e3.js.map": "/njw1204/react-movie/static/js/main.5a1b49e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77274861.css",
+    "static/js/main.5a1b49e3.js"
+  ]
+}
